@@ -1,0 +1,5 @@
+{
+  "big_shulkers.rule.shulkerBoxSlotMaxStackSize.desc": "Customize the Max Stack Size of Items inside Shulker Boxes",
+  "big_shulkers.rule.itemOverstacking.desc": "Decide if items should be able to stack to the inventories max count in shulker boxes"
+
+}
